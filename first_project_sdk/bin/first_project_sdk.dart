@@ -28,4 +28,11 @@ return true;
 }
 isEven(10);
 print(isEven (6));
+
+
+
+sayHello ('basim');
+}
+void sayHello (String name){
+  print("hi $name");
 }
